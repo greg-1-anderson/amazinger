@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace Amazinger;
 
 use PHPUnit\Framework\TestCase;
 
